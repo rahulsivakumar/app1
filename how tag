@@ -1,0 +1,39 @@
+[33mcommit 15355dfad74b243e56aa15d891e3bc0111cdb9e5[m[33m ([m[1;36mHEAD -> [m[1;32mrahul1[m[33m, [m[1;33mtag: v0.1[m[33m, [m[1;31morigin/rahul1[m[33m, [m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m
+Merge: 5971a99 f54e196
+Author: rahulsivakumar <rahul.sivakumar997@gmail.com>
+Date:   Tue Jul 16 14:44:19 2019 +0530
+
+    Merge branch 'master' of https://github.com/rahulsivakumar/app1
+
+[1mdiff --cc temp.txt[m
+[1mindex a631368,6a3ffc8..84f87c8[m
+[1m--- a/temp.txt[m
+[1m+++ b/temp.txt[m
+[36m@@@ -1,6 -1,6 +1,7 @@@[m
+[31m--<<<<<<< HEAD[m
+[31m--this is in branch of rahul called rahul1=[m
+[31m--=======[m
+[32m++[m
+[32m++this is in branch of rahul called rahul1[m
+  this is a html file program.[m
+[31m-->>>>>>> f8b0206d06d337d4cd2282a13418db4011c89bd2[m
+[32m +changes made by ram1[m
+[32m++[m
+[32m+ LATEST UPDATEEEEE!!!!![m
+[32m++[m
+[1mdiff --cc temp.txt.orig[m
+[1mindex 82b3c99,82b3c99..0ef505e[m
+[1m--- a/temp.txt.orig[m
+[1m+++ b/temp.txt.orig[m
+[36m@@@ -1,5 -1,5 +1,10 @@@[m
+  <<<<<<< HEAD[m
+[31m--this is in branch of rahul called rahul1=[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D=[6~[6~T[C[F[F[F[H[F[F[F[F[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[m
+[32m++this is in branch of rahul called rahul1=[m
+  =======[m
+  this is a html file program.[m
+  >>>>>>> f8b0206d06d337d4cd2282a13418db4011c89bd2[m
+[32m++<<<<<<< HEAD[m
+[32m++changes made by ram1[m
+[32m++=======[m
+[32m++LATEST UPDATEEEEE!!!!![m
+[32m++>>>>>>> f54e196c5e328c0b895032fb2dc2b64eb0a2b279[m
